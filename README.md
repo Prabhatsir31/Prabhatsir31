@@ -16,6 +16,14 @@
 
 - ⚡ Fun fact **I am funny**
 
+## 🤓About Me 
+ 
+ 
+ - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
+ - 🙌 **Open Source Projects** are something I'd like to work on.
+ - ✨ Interested in exploring the possibilities of **Web Developer*
+ - 📫 To get in touch with me, please email me at srivastavaprabhat522@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
