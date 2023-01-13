@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Maurya</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
 <img src="https://th.bing.com/th/id/R.a831bba7d6f819d057b7a9d254b7ab79?rik=Q443dZhLbKi1qg&riu=http%3a%2f%2fgetdrawings.com%2fuseruploadedimages%2fdeveloper-clipart.PNG&ehk=yGzG6T5HVmqhdgCym9LgHz91WJrqPCiIr0jMJA5qQw4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1.png" height="175px" width="175px"/>
