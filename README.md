@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://tenor.com/search/matrix-code-wallpaper-gifs">
+<div align="center">
+<img src="https://th.bing.com/th/id/R.a831bba7d6f819d057b7a9d254b7ab79?rik=Q443dZhLbKi1qg&riu=http%3a%2f%2fgetdrawings.com%2fuseruploadedimages%2fdeveloper-clipart.PNG&ehk=yGzG6T5HVmqhdgCym9LgHz91WJrqPCiIr0jMJA5qQw4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1.png" height="175px" width="175px"/>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatsir31&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsir31" /> </p>
