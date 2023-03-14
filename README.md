@@ -21,7 +21,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Prabhatsir31&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=1589FF&text_color=c9d1d9&bg_color=0d1117" alt="Prabhat Srivastava github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsir31&layout=compact&hide_border=true&title_color=1589FF&text_color=00FFFF&bg_color=00FFFF" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsir31&layout=compact&hide_border=true&title_color=1589FF&text_color=1589FF&bg_color=0d1118" />
 </div>
 
 
