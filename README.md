@@ -46,4 +46,6 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1589FF&height=120&section=footer"/>
+ 
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
