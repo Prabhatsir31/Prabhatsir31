@@ -46,6 +46,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1589FF&height=120&section=footer"/>
- 
- <a href="https://github.com/Prabhatsir31/Motivation-Quotes" style="font-size:20px; font-weight:bold;">Motivation Quotes</a>
-
