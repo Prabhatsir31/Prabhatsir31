@@ -11,7 +11,7 @@
  - ✨ Interested in exploring the possibilities of **Web Developer*
  - 📫 To get in touch with me, please email me at srivastavaprabhat522@gmail.com
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prabhatsir31&bg_color=0d1117&color=fff&line=4169e1&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prabhat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prabhatsir31&bg_color=0d1117&color=fff&line=4169e1&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prabhatsir31&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
