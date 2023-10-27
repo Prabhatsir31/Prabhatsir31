@@ -11,20 +11,7 @@
  - ✨ Interested in exploring the possibilities of **Web Developer*
  - 📫 To get in touch with me, please email me at srivastavaprabhat522@gmail.com
 
-[![Prabhat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prabhatsir31&bg_color=0d1117&color=fff&line=4169e1&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhatsir31&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
-<!--<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Prabhatsir31&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=1589FF&text_color=c9d1d9&bg_color=0d1117" alt="Prabhat Srivastava github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsir31&layout=compact&hide_border=true&title_color=1589FF&text_color=1589FF&bg_color=0d1118" />
-</div>-->
-
-
+### Contact Me On:
 <div align="center"> 
 <a  href="https://www.linkedin.com/in/prabhat-srivastava-a3339a22a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:srivastavaprabhat522@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
