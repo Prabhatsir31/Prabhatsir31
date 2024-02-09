@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://th.bing.com/th/id/R.a831bba7d6f819d057b7a9d254b7ab79?rik=Q443dZhLbKi1qg&riu=http%3a%2f%2fgetdrawings.com%2fuseruploadedimages%2fdeveloper-clipart.PNG&ehk=yGzG6T5HVmqhdgCym9LgHz91WJrqPCiIr0jMJA5qQw4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1.png](https://unsplash.com/photos/turned-on-acer-laptop-on-table-near-cup-zwsHjakE_iI)" height="175px" width="175px"/>
+<img src="(https://unsplash.com/photos/turned-on-acer-laptop-on-table-near-cup-zwsHjakE_iI)" height="175px" width="175px"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Prabhat Srivastava</h1>
