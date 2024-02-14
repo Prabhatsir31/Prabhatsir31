@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prabhatsir31](https://github.com/Prabhatsir31)
 
-- 📝 I regularly write code on [https://github.com/Prabhatsir31](Github)
+- 📝 I regularly write code on [Github](https://github.com/Prabhatsir31)
   
 - 🙌 **Open Source Projects** are something I'd like to work on.
 
