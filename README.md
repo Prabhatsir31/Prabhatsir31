@@ -1,5 +1,5 @@
 <div align="center">
-<img src="(https://unsplash.com/photos/turned-on-acer-laptop-on-table-near-cup-zwsHjakE_iI)" height="175px" width="175px"/>
+<img src="https://unsplash.com/photos/turned-on-acer-laptop-on-table-near-cup-zwsHjakE_iI" height="175px" width="175px"/>
 </div>
 <br><br><br>
 
