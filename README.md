@@ -1,6 +1,6 @@
-<!--<div align="center">
+<div align="center">
 <img src="(https://unsplash.com/photos/turned-on-acer-laptop-on-table-near-cup-zwsHjakE_iI)" height="175px" width="175px"/>
-</div>-->
+</div>
 <br><br><br>
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
