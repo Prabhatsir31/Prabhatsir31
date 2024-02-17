@@ -1,6 +1,6 @@
-<!--<div align="center">
+<div align="center">
 <img src="https://giffiles.alphacoders.com/209/209037.gif" width="100%"/>
-</div>-->
+</div>
 <br><br><br>
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
