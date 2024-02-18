@@ -1,7 +1,7 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://media1.tenor.com/m/HlrifSp2kkgAAAAC/atr.gif" width="100%" height="150px"/>
-</div>
-<br>
+</div>-->
+<br><br><br>
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer</h3>
