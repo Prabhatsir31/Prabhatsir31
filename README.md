@@ -1,6 +1,6 @@
-<!--<div align="center">
+<div align="center">
 <img src="https://media1.tenor.com/m/HlrifSp2kkgAAAAC/atr.gif" width="100%" height="150px"/>
-</div>-->
+</div>
 
 <br><br><br>
 
