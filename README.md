@@ -33,8 +33,9 @@
 
 <br><br>
 <p>
-   <img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif"> 
+<!--    <img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">  -->
 </p>
+
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&layout=compact" alt="prabhatsir31" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en" alt="prabhatsir31" /></p>
