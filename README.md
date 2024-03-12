@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools: </h3>
 
-![Html](https://img.shields.io/badge/:html)
+![Html](https://img.shields.io/badge/:html3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br><br>
 
