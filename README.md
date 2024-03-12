@@ -33,7 +33,7 @@
 
 <br><br>
 <p>
-   <img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif"> 
+   
 </p>
 
 <div>
