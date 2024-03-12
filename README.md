@@ -3,6 +3,7 @@
 </div>
 
 <br>
+![Git](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer</h3>
