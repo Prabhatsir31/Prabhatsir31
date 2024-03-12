@@ -1,7 +1,7 @@
 <div align="center">
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 </div>
-<br><br>
+
 <br><br><br>
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
