@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatsir31&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsir31" /> </p>
 
- -🌱 I’m currently learning **Data Structure**
+-🌱 I’m currently learning **Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prabhatsir31](https://github.com/Prabhatsir31)
 
