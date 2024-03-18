@@ -66,5 +66,5 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bhailang](https://img.shields.io/badge/Bhailang-FF6C37?style=for-the-badge&logo=bhailang&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF6C37?style=for-the-badge&logo=python&logoColor=white)
 
