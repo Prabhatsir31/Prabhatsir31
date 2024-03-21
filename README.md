@@ -54,7 +54,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23E34F26.svg?style=for-the-badge&logo=figma&logoColor=#FF7043) 
+![Figma](https://img.shields.io/badge/figma-%23E34F26.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
 <!-- 
