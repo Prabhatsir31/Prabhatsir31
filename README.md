@@ -21,14 +21,12 @@
 - 📫 How to reach me **srivastavaprabhat522@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align='right' src="img.jpg" height="100">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhat-srivastava-a3339a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhat-srivastava-a3339a22a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: </h3>
-
-<img align='right' src="img.jpg" height="100">
-
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
