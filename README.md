@@ -54,11 +54,11 @@
 -->
    
 
-<div>
+<!--<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&layout=compact" alt="prabhatsir31" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en" alt="prabhatsir31" /></p>
 </div>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsir31&" alt="prabhatsir31" /></p>
 
 
@@ -81,6 +81,6 @@
 <div align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=Prabhatsir31&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true">
       <img alt="Prabhat Srivastava GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=Prabhatsir31&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en" alt="prabhatsir31" />
+      
     </a>
   </div>
