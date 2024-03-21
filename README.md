@@ -21,7 +21,9 @@
 - 📫 How to reach me **srivastavaprabhat522@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align='right' src="img.jpg" height="100">
+
+<img align='right' src="img.jpg" height="300">
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhat-srivastava-a3339a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhat-srivastava-a3339a22a/" height="30" width="40" /></a>
 </p>
