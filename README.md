@@ -52,7 +52,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=#F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB)
 
 
 
