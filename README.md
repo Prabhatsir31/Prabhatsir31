@@ -1,4 +1,4 @@
-<img src"img.jpg" height="100px" width="100px" />
+<img src="img.jpg" height="100px" width="100px" />
 <div align="center"> 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />
 </div>
