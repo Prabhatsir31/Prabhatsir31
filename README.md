@@ -1,6 +1,6 @@
-<div align="center"> 
+<!--<div align="center"> 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />
-</div>
+</div>-->
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer</h3>
