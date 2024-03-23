@@ -53,7 +53,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en&count_private=true&theme=dracula&border_radius=10&show_icons=true&include_all_commits=true&rank_icon=percentile" alt="prabhatsir31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsir31&border_radius=10" alt="prabhatsir31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsir31&border_radius=10&rank_icon=percentile" alt="prabhatsir31" /></p>
 
 <!--
 <div align="center">
