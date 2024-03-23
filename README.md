@@ -20,7 +20,7 @@
   
 - 📫 How to reach me **srivastavaprabhat522@gmail.com**
 
-<img align='right' src="img.png" height="280" width="280" ><br>
+<img align='right' src="img.png" height="280" width="280" style="margin-top:-20" ><br>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
