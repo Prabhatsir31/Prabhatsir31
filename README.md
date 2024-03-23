@@ -49,7 +49,7 @@
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&layout=compact" alt="prabhatsir31" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&rank_icon=percentile&layout=compact" alt="prabhatsir31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en" alt="prabhatsir31" /></p>
 
