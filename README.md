@@ -1,7 +1,7 @@
 <!--<div align="center"> 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />
 </div>-->
-<div > 
+<div style=" background-color: red;" > 
 <a href="https://github-readme-stats.vercel.app/api username=Prabhatsir31&theme=dracula">
   
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
