@@ -51,7 +51,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&rank_icon=percentile&layout=compact" alt="prabhatsir31" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en&include_all_commits=true&rank_icon=percenttile" alt="prabhatsir31" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en&count_private=true&theme=dracula" alt="prabhatsir31" /></p>
 
  <img alt="Prabhat Srivastava GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=Prabhatsir31&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true" alt="prabhatsir31">
 
