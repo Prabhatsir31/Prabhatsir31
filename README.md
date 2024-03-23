@@ -2,7 +2,7 @@
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />
 </div>-->
 <div > 
-<a href="https://github-readme-stats.vercel.app/api username=Prabhatsir31&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true">
+<a href="https://github-readme-stats.vercel.app/api username=Prabhatsir31&theme=dracula">
   
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer</h3>
