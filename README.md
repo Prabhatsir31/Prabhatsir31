@@ -1,6 +1,7 @@
 <!--<div align="center"> 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />
 </div>-->
+<div>
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer</h3>
@@ -55,6 +56,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsir31&border_radius=10&theme=dracula" alt="prabhatsir31" /></p>
 
+</div>
 <!--
 <div align="center">
     <a href="https://github-readme-stats.vercel.app/api username=Prabhatsir31&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true">
