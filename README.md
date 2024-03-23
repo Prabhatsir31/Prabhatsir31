@@ -2,9 +2,6 @@
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />
 </div>-->
 
-
-
-
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -24,6 +21,7 @@
 - 📫 How to reach me **srivastavaprabhat522@gmail.com**
 
 <img align='right' src="img.png" height="280" width="280" ><br>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
