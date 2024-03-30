@@ -62,5 +62,5 @@
       <img alt="Prabhat Srivastava GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=Prabhatsir31&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true">
         </a>
   </div>
- <img alt="Prabhat Srivastava GitHu
+ <img alt="Prabhat Srivastava 
 --
