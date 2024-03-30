@@ -58,4 +58,4 @@
 <!--
 
 <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api username=Prabhatsir31&include_all_commits=true&rank_icon=percentil
+    <a href="https://github-readme-stats.vercel.app/api username=Prabhatsir31&include_all_commits=true&rank_icon=
