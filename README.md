@@ -68,5 +68,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage icons=true&theme=radical)
 
