@@ -52,7 +52,7 @@
 
 <p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&rank_icon=percentile&layout=compact&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsir31&border_radius=10&theme=dracula" alt="prabhatsir31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsir31&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage_icons=true&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
