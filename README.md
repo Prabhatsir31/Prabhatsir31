@@ -1,5 +1,5 @@
                               
-  <!--<div align="center">  
+<!--<div align="center">  
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />   
 </div>-->     
     
@@ -74,9 +74,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsir31&hide=javascript,html)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsir31&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsir31&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
