@@ -74,5 +74,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsir31)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsir31&layout=donut)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsir31&layout=donut)
 -->
