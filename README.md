@@ -69,7 +69,7 @@
 [![Top Lang(https://githubreadmstats.vercel.app/api/tolne=l:gb.co/anraha
 [TopLangs(https://githubreadmestats.vercel.app/api/toplauserrazra&layout=pie)](https://github.com/anuraghzra/github-radme-st
 [Top Langs](https://github-readme-stats.vercel.app/api/to-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
-ps://github-readme-stats.vercel.app/api?username=anuragh)](htts://github.com/anuraghazra/github-readme-stats
+ps://github-readme-stats.vercel.app/api?username=anur)](htts://github.com/anuraghazra/github-readme-stats
 nurag's GitHub stats](https://github-readme-stats.vercel.apusername=prabhatsir31&show=prs_merged_perce
 [Top Langs](https://github-readme-stats.vercel.pi/top-lang/?username=anuraghazra&hide_prog
 [Top Langs](https://github-readme-stats.vercel.app/api/toplangsusername=prabhatsir31
