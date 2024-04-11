@@ -66,7 +66,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en&count_private=true&theme=dracula&border_radius=10&show_icons=true&include_all_commits=true&margin_top=20" alt="prabhatsir31" /></p> Langs](https://github-readme-statrcel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 ![Anurag's GitHub stats](https://githreadmestats.vercel.app/apiusername=anuraghazra&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.?username=anuraghazra&show_i
-[![Top Lang(https://githubreadmstats.vercel.app/api/tolanerne=l:gb.co/anraha
+[![Top Lang(https://githubreadmstats.vercel.app/api/tolne=l:gb.co/anraha
 [TopLangs(https://githubreadmestats.vercel.app/api/toplauserrazra&layout=pie)](https://github.com/anuraghzra/github-radme-st
 [Top Langs](https://github-readme-stats.vercel.app/api/to-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ps://github-readme-stats.vercel.app/api?username=anuragh)](htts://github.com/anuraghazra/github-readme-stats
