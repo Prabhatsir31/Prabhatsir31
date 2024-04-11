@@ -62,7 +62,7 @@
 
 <!--
 
-<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&rank_icorcentile&lyout=compact&border_radius=10&theme=radical" alt="prabhatsir31" /></p
+<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatsir31&show_icons=true&locale=en&rank_icorcentile&lyout=compact&border_radius=10&theme=radical" alt="prabhatsir31" />
 <p><img src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show_icons=true&locale=en&count_private=true&theme=dracula&border_radius=10&show_icons=true&include_all_commits=true&margop=20" alt="prabhatsir31" /></p> Langs](https://github-readme-statrcel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 ![Anurag's GitHub sta(https://githreadmestats.vercel.app/apiusernameraghazrae=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.?username=anuraghazra&show_i
