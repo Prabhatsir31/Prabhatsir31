@@ -67,7 +67,7 @@
 ![Anurag's GitHub stats](https://github-readmestats.vercel.app/apiusername=anuraghazra&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.ap/a?username=anuraghazra&show_icons=tr
 [![Top Langs](https://githubreadmstats.vercel.app/api/tolang/username=l:gb.co/anraha
-[TopLangs(https://githubreadmestats.vercel.app/api/toplangs/usernam=anrazra&layout=pie)](https://github.com/anuraghzra/github-radme-st
+[TopLangs(https://githubreadmestats.vercel.app/api/toplangs/usernam=razra&layout=pie)](https://github.com/anuraghzra/github-radme-st
 [Top Langs](https://github-readme-stats.vercel.app/api/to-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ps://github-readme-stats.vercel.app/api?username=anuraghazra)](htts://github.com/anuraghazra/github-readme-stats
 nurag's GitHub stats](https://github-readme-stats.vercel.apusername=prabhatsir31&show=prs_merged_perce
