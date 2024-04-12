@@ -62,7 +62,7 @@
 
 <!--
 
-<p><img align="left" width="350" src="https://github-readme-stats.vercelpaptousername=prabhatsir31&show_icons=true&locale=en&rank_icorcentilelyo=cct&boadi&theme=radical" al
+<p><img align="left" width="350" src="https://github-readme-stats.vercelpaptousername=prabhatsir31&show_icons=true&locale=en&rank_icorcentilelyo=t&boadi&theme=radical" al
 <p><img src="https:/githreastats.vercel.aausername=prabhatsir31&show_icons=true&locale=en&countvate=true&te
 ![Anurag's GitHub sta(https://githreadmestats.vercel.app/apiusernameragha
 ![Anurag's GitHub stats](https://github-readme-stusername=aghazraho
