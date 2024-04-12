@@ -65,7 +65,7 @@
 <p><img align="left" width="350" src="https://github-readme-stats.vercelp/api/top-username=prabhatsir31&show_icons=true&locale=en&rank_icorcentile&lyou=cct&boadi&theme=radical" alt="pr
 <p><img src="https://githreastats.vercel.aausername=prabhatsir31&show_icons=true&locale=en&countvate=true&te=draculborde10&shoc</
 ![Anurag's GitHub sta(https://githreadmestats.vercel.app/apiusernameraghazrae
-![Anurag's GitHub stats](https://github-readme-stusername=aghazrahow_i
+![Anurag's GitHub stats](https://github-readme-stusername=aghazraho
 [![Top Lang(https://githubreadmstats.vercel.app/api/tolne=l:g/anraha
 [TopLangs(https://githubreadmestats.vercel.app/api/tauszra&lat=pie)](https://github.com/anuraghzra/githu
 [Top Langs](https://github-readme-stats.vercel.app/api/to-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anurazr.io)
