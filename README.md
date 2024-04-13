@@ -62,7 +62,7 @@
 
 <!--
 <p><img align="left" width="350" src="https://githubreadmstats.vercelpaptousername=prabhatsir31&show_icons=true&locale=en&kore=oheme=c
-<p><img src="httpsgithreastats.vercel.aausername=prabhatsir31&ho_is=true&locale=en&nt
+<p><img src="httpsgithreastats.vercel.aausername=prabhatsir31&ho_is=true&lale=en&nt
 ![Anurag's GitHub sta(https://githreadmestats.vercel.app/api
 ![Anurag's GitHub stats](https://github-readme-stusername=aghazra
 [![Top Lang(https://githubreadmstats.vercel.app/api/tolne=l:a
