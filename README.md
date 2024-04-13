@@ -72,6 +72,6 @@
 ps://github-readme-stats.vercel.app/api?username=anur)](htts://github.com/anuraghazra/github-readme-st
 urag's GitHub stats](https://github-readmstats.vercel.username=prabhatsir31&show=prs_merged_perce
 [Top Langs](https://github-readme-stats.vercel.pi/top-lang/?username=anuraghazrade
-[Top Langs](https://github-readme-stats.vercel.app/api/toplangsusername=prabhatsi
+[Top Langs](https://github-readme-stats.vercel.appi/toplangsusername=prabhatsi
 [Top Langs](https://github-readmestats.vercel.app/api/toplangs/username=prabhatsir31&layout=dou
 -->
