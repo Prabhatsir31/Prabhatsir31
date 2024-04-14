@@ -62,7 +62,7 @@
 
 <!--
 <p><img align="left"width="350"src="https://githubadmstats.vercelpaptousernmepabatsir31show_cns=t
-<p><img src="httpsgithreastats.vercel.aausername=r
+<p><img src="httpsgithreastats.vercel.aausername
 ![A
 ![Anurag's GitHub stats](https
 [![Top Lang(https://githubreadmstats.verce
