@@ -63,7 +63,7 @@
 <!--
 <p><img align="left"width="350"src="https://githubadmstats.vercelpaptousername=pabatsir31show_cns=tr
 <p><img src="httpsgithreastats.vercel.aausername=prhsir
-![Anurag's G
+![Anurag's
 ![Anurag's GitHub stats](https:
 [![Top Lang(https://githubreadmstats.verce
 [TopLangs(https://githubreadmestats.vercel.app/api/tauszra&lat=pie)(htt://gcomghzra/git
