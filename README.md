@@ -72,5 +72,5 @@ ps://github-readme-stats.vercel.app/api?username=an(htts://github.com/anuraghazr
 urag's GitHub sta(https://githreadmstats.vercel.username=prabhatsir31&show=prs_mrged_perce
 [Top Langs](https://github-readme-stats.vercel.pi/tolang/ername=anuraghazrade
 [Top Langs](https://github-readme-stats.vercel.appi/toplangusername=prabhatsi
-[Top Langs](https://githureadmestats.vercel.app/api/toplangs/username=prabhatsir31&layout=dou
+[Top Langs](https://githureadmestats.vercel.app/api/toplangs/usrname=prabhatsir31&layout=dou
 -->
