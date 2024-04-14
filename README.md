@@ -61,7 +61,7 @@
 
 
 <!--
-<p><img align="left"width="350"src="https://githubadmstats.vercelpaptousernme=pabatsir31show_cns=tr
+<p><img align="left"width="350"src="https://githubadmstats.vercelpaptousernme=pabatsir31show_cns=t
 <p><img src="httpsgithreastats.vercel.aausername=rir
 ![Anur
 ![Anurag's GitHub stats](https:
