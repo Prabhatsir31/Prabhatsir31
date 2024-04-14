@@ -63,7 +63,7 @@
 <!--
 
 <p><img src="httpsgithreastats.vercel.a
-![Anurag's GitHub stat
+![Anurag's GitHub st
 [![Top Lang(https://githubreadmsta
 [TopLangs(https://githubreadmestats.vercel.app/api/tauszra&lat=pe)(htt://gcomghzra/git
 [Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&exclude_repo=github-readme-statsnurazr
