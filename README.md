@@ -61,7 +61,7 @@
 
 
 <!--
-<p><img align="left" width="350"src="https://githubadmstats.vercelpaptousername=pabatsir31show_cns=true&locale=
+<p><img align="left" width="350"src="https://githubadmstats.vercelpaptousername=pabatsir31show_cns=true&local
 <p><img src="httpsgithreastats.vercel.aausername=prhsir3o=tal
 ![Anurag's GitHub sta(https://g
 ![Anurag's GitHub stats](https://github-rea
