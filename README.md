@@ -62,7 +62,7 @@
 
 <!--
 
-<p><img src="httpsgithreastats.vercel.a
+<p><img src="httpsgithreastats.vercel
 ![Anurag's GitHub st
 [![Top Lang(https://githubread
 [TopLangs(https://githubreadmestats.vercel.app/api/tauszra&lat=pe)(htt://gcomghzra/git
