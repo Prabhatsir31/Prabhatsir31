@@ -70,6 +70,6 @@
 ps://github-readme-stats.vercel.app/api?username=an(htts://github.com/anuraghazra/gith
 urag'GitHsta(https://githreadmstats.vercel.username=prabhatsir31&show=prmrged_perce
 [Top Langs](https://github-readme-stats.vercel.pi/tolang/ername=anuraghazrade
-[Top Langs](https://github-readme-stats.vercel.appi/toplangusername=bhatsi
+[Top Langs](https://github-readme-stats.vercel.appi/toplangusername=btsi
 [Top Langs](https://githureadmestats.vercel.app/api/toplangs/usrname=prabhatsir31&layout=dou
 -->
