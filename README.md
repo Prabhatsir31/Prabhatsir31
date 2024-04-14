@@ -68,7 +68,7 @@
 [TopLangs(https://githubreadmestats.vercel.app/api/tauszra&lat=pe)(htt://gcomghzra/git
 [Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&exclude_repo=github-readme-statsnurazr
 ps://github-readme-stats.vercel.app/api?username=an(htts://github.com/anuraghazra/gith
-urag's GitHub sta(https://githreadmstats.vercel.username=prabhatsir31&show=prmrged_perce
+urag's GitHsta(https://githreadmstats.vercel.username=prabhatsir31&show=prmrged_perce
 [Top Langs](https://github-readme-stats.vercel.pi/tolang/ername=anuraghazrade
 [Top Langs](https://github-readme-stats.vercel.appi/toplangusername=bhatsi
 [Top Langs](https://githureadmestats.vercel.app/api/toplangs/usrname=prabhatsir31&layout=dou
