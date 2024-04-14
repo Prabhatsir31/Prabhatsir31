@@ -61,7 +61,7 @@
 
 
 <!--
-<p><img align="left" width="350" src="https://githubadmstats.vercelpaptousername=prabhatsir31&show_icons=true&locale=en&kore=ohe
+<p><img align="left" width="350" src="https://githubadmstats.vercelpaptousername=prabhatsir31show_icons=true&locale=en&kore=ohe
 <p><img src="httpsgithreastats.vercel.aausername=prhatsir3o_is=tr&lale=n&nt
 ![Anurag's GitHub sta(https://githreadmesta.ver
 ![Anurag's GitHub stats](https://github-readme-stusername=aghr
