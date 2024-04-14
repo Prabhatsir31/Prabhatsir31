@@ -68,7 +68,7 @@
 [![Top Lang(https://githubreadmstats.vercel.app/api/to
 [TopLangs(https://githubreadmestats.vercel.app/api/tauszra&lat=pie)](htt://gcomghzra/git
 [Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&exclude_repo=github-readme-statsnurazr.i
-ps://github-readme-stats.vercel.app/api?username=an(htts://github.com/anuraghazra/github
+ps://github-readme-stats.vercel.app/api?username=an(htts://github.com/anuraghazra/githu
 urag's GitHub stats](https://githreadmstats.vercel.username=prabhatsir31&show=prs_mrged_perce
 [Top Langs](https://github-readme-stats.vercel.pi/top-lang/?username=anuraghazrade
 [Top Langs](https://github-readme-stats.vercel.appi/toplangsusername=prabhatsi
