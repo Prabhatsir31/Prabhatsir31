@@ -62,7 +62,7 @@
 
 <!--
 <p><img align="left"width="350"src="https://githubadmstats.vercelpaptusnmepabatsir31sho
-<p><img src="httpsgithreastats.vercel.aause
+<p><img src="httpsgithreastats.vercel.aau
 ![Anurag's GitHub stats](h
 [![Top Lang(https://githubreadmstats.ve
 [TopLangs(https://githubreadmestats.vercel.app/api/tauszra&lat=pe)(htt://gcomghzra/git
