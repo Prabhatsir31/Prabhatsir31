@@ -13,7 +13,7 @@
 
 - 📝 I regularly write code on [Github](https://github.com/Prabhatsir31)
   
-- 🙌 **Open Source Projects** are something I'd like to work on.
+- 🙌 **Open Source Projects** are something I'd like to work on. 
 
 - 💬 Ask me about **Frontend**
 
