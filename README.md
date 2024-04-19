@@ -61,7 +61,7 @@
 [Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&exclude_repo=githadme-sturazr
 //github-readme-stats.verel.app/api?username=an(htts://github.c/anuraghazr
 GitHsta(https://githreadmstats.vercel.username=prabhatr31&ow=prmrged
-p Langs](https://github-readme-stats.vercel.pi/tog/ername=anuraghazrade
+p Langs](https://github-dme-stats.vercel.pi/tog/ername=anuraghazrade
 angs](https:/ithub-readme-stats.vercel.app=btsi
 p angs(https://githureadmestat.vercel.app/api/toplangs/usrname=prabhatsir31&layout=
 -->
