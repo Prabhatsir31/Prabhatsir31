@@ -62,6 +62,6 @@
 //github-readme-stats.verel.app/api?username=an(htts://github.c/anuraghazr
 GitHsta(https://githreadmstats.vercel.username=prabhatr31&ow=prmrged
 p Langs](https://github-dme-stats.vercel.pi/tog/ername=anuraghazra
-angs](https:/ithub-readme-stats.vercel.app=b
+angs](https:/ithub-readme-stats.vercel.app=
 p angs(https://githureadmestat.vercel.app/api/toplangs/usrname=prabhatsir31&layout=
 -->
