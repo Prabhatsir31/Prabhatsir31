@@ -58,7 +58,7 @@
 
 
 <!--
-[Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&excde_repo=githa
+[Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&excde_repo=gith
 //github-readme-stats.verel.app/api?username=an(htts://github.cnura
 GitHsta(https://githreadmstats.vercel.username=prabtr3
 p Langs](https://github-dme-stats.verc.pi
