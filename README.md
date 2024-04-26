@@ -63,5 +63,5 @@
 GitHsta(https://githreadmstats.vercel.username=prabtr3
 p Langs](https://github-dme-stats.verc.pi
 angs](https:/ithub-readme-stats.vercel.
-p angs(https://githureadmestat.vercel.app/api/toplangs/usrname=praa
+p angs(https://githureadmestat.vercel.app/api/toplangs/usrname=praa\\\\
 -->
