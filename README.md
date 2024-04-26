@@ -58,7 +58,7 @@
 
 
 <!--
-[Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&excdrepo
+[Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&excdrep
 //github-readme-stats.verel.app/api?username=an(htts:/
 GitHsta(https://githreadmstats.vercel.username=prabtr3
 p Langs](https://github-dme-stats.verc.pi
