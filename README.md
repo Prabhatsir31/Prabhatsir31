@@ -61,7 +61,7 @@
 [Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&excdrep
 //github-readme-stats.verel.app/api?username=an(htts:/
 GitHsta(https://githreadmstats.vercel.username=pra
-p Langs](https://github-dme-stats.verc.pi
+p Langs](https://github-dme-stats.verc.
 angs](https:/ithub-readme-stats.vercel.
 p angs(https://githureadmestat.vercel.app/api/toplangs/usrname=praa\\\\
 -->
