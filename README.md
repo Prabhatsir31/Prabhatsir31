@@ -27,6 +27,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhat-srivastava-a3339a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhat-srivastava-a3339a22a/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prabhat_codec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-in-alt.svg" alt="https://www.instagram.com/prabhat_codec/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: </h3>
@@ -56,12 +57,3 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage_icons=true&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
-
-<!--
-[Top Langs](https://github-readme-stats.vercel.app/api/to-lasername=anurhazra&excdrep
-//github-readme-stats.verel.app/api?username=an(htts:/
-GitHsta(https://githreadmstats.vercel.username=pra
-p Langs](https://github-dme-stats.verc.
-angs](https:/ithub-readme-stats.vercel.
-p angs(https://githureadmestat.vercel.app/api/toplangs/u
--->
