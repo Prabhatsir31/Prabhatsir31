@@ -55,5 +55,7 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsir31&border_radius=10&theme=radical" alt="prabhatsir31" /></p>-->
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prabhatsir31&border_radius=10&theme=radical" alt="GitHub Streak" />
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage_icons=true&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
