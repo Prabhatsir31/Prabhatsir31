@@ -52,7 +52,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatsir31&" alt="Prabhatsir31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatsir31" alt="Prabhatsir31" /></p>
 
 
 
