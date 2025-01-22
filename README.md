@@ -2,7 +2,7 @@
 <!-- <div align="center">  
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />   
 </div>-->     
-    
+<!--    
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1> 
 <h3 align="center">A passionate frontend developer</h3>
  
@@ -57,3 +57,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage_icons=true&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
+-->
