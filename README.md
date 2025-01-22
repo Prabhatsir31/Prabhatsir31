@@ -53,7 +53,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&layout=compact&border_radius=10&theme=radical" alt="Prabhatsir31" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Prabhatsir31&theme=radical&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prabhatsir31&theme=radical&hide_border=true&border_radius=10&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=Prabhatsir31&" alt="Prabhatsir31" /></p>-->
 
