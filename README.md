@@ -51,13 +51,9 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatsir31" alt="Prabhatsir31" /></p>
-
-
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&layout=compact&border_radius=10&theme=radical" alt="Prabhatsir31" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatsir31&" alt="Prabhatsir31" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=Prabhatsir31&" alt="Prabhatsir31" /></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prabhatsir31&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&width=700&font_size=25" alt="Prabhatsir31" /></p>
+
