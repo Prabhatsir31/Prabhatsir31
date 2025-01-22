@@ -2,13 +2,12 @@
 <!-- <div align="center">  
   <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" height="250px" />   
 </div>-->     
-<!--    
+  <!--
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1> 
 <h3 align="center">A passionate frontend developer</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatsir31&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsir31" /> </p>
-<!--
-- 🌱 I’m currently learning **Data Structure**   -->
+
 - 👨‍💻 All of my projects are available at (https://github.com/Prabhatsir31)
 
 - 📝 I regularly write code on [Github](https://github.com/Prabhatsir31)
@@ -53,8 +52,9 @@
 
 <p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsir31&layout=compact&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
-<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prabhatsir31&border_radius=10&theme=radical&width=700" alt="prabhatsir31" />-->
+
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&show=prs_merged_percentage_icons=true&border_radius=10&theme=radical" alt="prabhatsir31" /></p>
 
 -->
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prabhatsir31&border_radius=10&theme=radical&width=700" alt="prabhatsir31" />-->
