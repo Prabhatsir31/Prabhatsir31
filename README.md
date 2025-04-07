@@ -54,6 +54,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsir31&layout=compact&border_radius=10&width=700" alt="Prabhatsir31" />
 
 <img src="https://streak-stats.demolab.com?user=Prabhatsir31"/></p>
-
+<!--
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prabhatsir31&show_icons=true&locale=en&layout=compact&border_radius=10&width=700&font_size=25" alt="Prabhatsir31" /></p>
-
+-->
