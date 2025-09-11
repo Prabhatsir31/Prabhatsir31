@@ -4,7 +4,7 @@
 </div>-->     
 
 <h1 align="center">Halo 👋, I'm Prabhat Srivastava</h1> 
-<h3 align="center">A passionate <i></i>Software Developer</i></h3>
+<h3 align="center">A passionate <i>Software Developer</i></h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatsir31&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsir31" /> </p>
 
